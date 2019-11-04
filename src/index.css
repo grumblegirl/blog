@@ -11,3 +11,33 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.profilePic {
+  background-image: url("./assets/img/arlene2.jpg");
+}
+
+.fa {
+  font-family: FontAwesome !important;
+}
+
+.smallFont {
+  font-size: 10pt;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+}
+
+.smallFontAccent {
+  font-size: 8pt;
+  color: orangered;
+  text-transform: uppercase;
+  margin-left: 20px;
+}
+
+.titleFont {
+  font-size: 20pt;
+  font-weight: 700;
+  color: #000000;
+  margin-left: 20px;
+}
